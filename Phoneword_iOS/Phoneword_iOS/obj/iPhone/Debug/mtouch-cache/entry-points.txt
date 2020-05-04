@@ -1,0 +1,25 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip

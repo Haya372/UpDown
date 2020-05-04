@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhone/Debug/Phoneword_iOS.app:/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Phoneword_iOS.exe
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhone/Debug/Phoneword_iOS.app:/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhone/Debug/Phoneword_iOS.app:/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhone/Debug/Phoneword_iOS.app:/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/1-Link/System.dll
