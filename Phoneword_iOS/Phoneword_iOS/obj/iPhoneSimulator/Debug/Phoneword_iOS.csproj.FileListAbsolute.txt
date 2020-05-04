@@ -1,0 +1,15 @@
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.pdb
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csprojAssemblyReference.cache
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csproj.CoreCompileInputs.cache
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csproj.CopyComplete
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/naruchan/C++works/co-development/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.pdb
