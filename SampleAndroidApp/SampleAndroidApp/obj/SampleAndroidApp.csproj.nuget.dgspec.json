@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/SampleAndroidApp.csproj": {}
+  },
+  "projects": {
+    "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/SampleAndroidApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/SampleAndroidApp.csproj",
+        "projectName": "SampleAndroidApp",
+        "projectPath": "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/SampleAndroidApp.csproj",
+        "packagesPath": "/Users/naruchan/.nuget/packages/",
+        "outputPath": "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/naruchan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
