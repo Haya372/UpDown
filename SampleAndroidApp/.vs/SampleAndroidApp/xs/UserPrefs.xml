@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4F8B2A88-001F-4A6D-AD2F-42FF4EBF20E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleAndroidApp/MainActivity.cs">
+    <Files>
+      <File FileName="SampleAndroidApp/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SampleAndroidApp/Resources/layout/activity_main.xml" Line="1" Column="1" />
+      <File FileName="SampleAndroidApp/Resources/layout/content_main.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleAndroidApp" expanded="True">
+            <Node name="SampleAndroidApp" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleAndroidApp AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+</Properties>
