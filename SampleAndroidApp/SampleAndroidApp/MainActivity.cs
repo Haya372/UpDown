@@ -1,5 +1,6 @@
 ﻿using System;
 using Android.App;
+using Android.Content;
 using Android.OS;
 using Android.Runtime;
 using Android.Support.Design.Widget;
@@ -59,6 +60,10 @@ namespace SampleAndroidApp
             View view = (View)sender;
             Snackbar.Make(view, "Info button was pressed!", Snackbar.LengthLong)
                 .SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
+
+            // Goto NextActivity
+            var intent = new Intent(this, typeof(NextActivityOne));
+            this.StartActivity(intent);
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

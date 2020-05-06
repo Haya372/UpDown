@@ -261,3 +261,5 @@
 /Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/Debug/res/layout/next_activity_one.xml
+/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/Debug/android/src/crc64fbbaaf53c9c344e2/NextActivityOne.java

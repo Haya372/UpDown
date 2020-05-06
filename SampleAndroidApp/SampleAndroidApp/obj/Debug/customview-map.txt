@@ -18,6 +18,7 @@ foreground;obj/Debug/res/mipmap-anydpi-v26/ic_launcher_round.xml
 include;obj/Debug/res/layout/activity_main.xml
 item;obj/Debug/res/menu/menu_main.xml
 item;obj/Debug/res/values/styles.xml
+LinearLayout;obj/Debug/res/layout/next_activity_one.xml
 menu;obj/Debug/res/menu/menu_main.xml
 paths;/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/Debug/lp/35/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj/Debug/res/layout/content_main.xml

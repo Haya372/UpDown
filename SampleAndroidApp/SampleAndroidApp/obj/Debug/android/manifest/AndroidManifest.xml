@@ -11,6 +11,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="NextActivityOne" android:name="crc64fbbaaf53c9c344e2.NextActivityOne" />
     <service android:name="crc64a98abb514ffad9f1.KeepAliveService" />
     <receiver android:enabled="true" android:exported="false" android:label="Essentials Battery Broadcast Receiver" android:name="crc64a0e0a82d0db9a07d.BatteryBroadcastReceiver" />
     <receiver android:enabled="true" android:exported="false" android:label="Essentials Energy Saver Broadcast Receiver" android:name="crc64a0e0a82d0db9a07d.EnergySaverBroadcastReceiver" />
