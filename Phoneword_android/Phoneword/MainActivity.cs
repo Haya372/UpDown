@@ -3,6 +3,9 @@ using Android.OS;
 using Android.Support.V7.App;
 using Android.Runtime;
 using Android.Widget;
+using Android.Views;
+using Android.Content;
+
 
 namespace Phoneword
 {
@@ -34,6 +37,8 @@ namespace Phoneword
                 {
                     translatedPhoneWord.Text = translatedNumber;
                 }
+                var intent = new Intent(this, typeof(Activity1));
+                StartActivity(intent);
             };
         }
     }
