@@ -3264,8 +3264,8 @@ namespace SampleAndroidApp
 			// aapt resource value: 0x7F0C0010
 			public const int action_mode_close_button = 2131492880;
 			
-			// aapt resource value: 0x7F010004
-			public const int action_settings = 2130771972;
+			// aapt resource value: 0x7F010008
+			public const int action_settings = 2130771976;
 			
 			// aapt resource value: 0x7F0C0004
 			public const int action_text = 2131492868;
@@ -3390,6 +3390,9 @@ namespace SampleAndroidApp
 			// aapt resource value: 0x7F0C0034
 			public const int group_divider = 2131492916;
 			
+			// aapt resource value: 0x7F010004
+			public const int HelloWorld = 2130771972;
+			
 			// aapt resource value: 0x7F0C0035
 			public const int home = 2131492917;
 			
@@ -3470,6 +3473,9 @@ namespace SampleAndroidApp
 			
 			// aapt resource value: 0x7F0C004F
 			public const int outline = 2131492943;
+			
+			// aapt resource value: 0x7F010006
+			public const int page2 = 2130771974;
 			
 			// aapt resource value: 0x7F0C0050
 			public const int parallax = 2131492944;
@@ -3636,8 +3642,8 @@ namespace SampleAndroidApp
 			// aapt resource value: 0x7F0C0083
 			public const int text_input_password_toggle = 2131492995;
 			
-			// aapt resource value: 0x7F0C001B
-			public const int time = 2131492891;
+			// aapt resource value: 0x7F010007
+			public const int time = 2130771975;
 			
 			// aapt resource value: 0x7F0C001C
 			public const int title = 2131492892;
@@ -3674,6 +3680,9 @@ namespace SampleAndroidApp
 			
 			// aapt resource value: 0x7F0C0092
 			public const int transition_transform = 2131493010;
+			
+			// aapt resource value: 0x7F010005
+			public const int TranslateButton = 2130771973;
 			
 			// aapt resource value: 0x7F0C0093
 			public const int uniform = 2131493011;
@@ -3929,6 +3938,9 @@ namespace SampleAndroidApp
 			
 			// aapt resource value: 0x7F020004
 			public const int draw_time = 2130837508;
+			
+			// aapt resource value: 0x7F020005
+			public const int layout_sub1 = 2130837509;
 			
 			// aapt resource value: 0x7F0F002B
 			public const int mtrl_layout_snackbar = 2131689515;

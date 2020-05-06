@@ -6,6 +6,7 @@ using Android.Support.Design.Widget;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
+using Android.Content;
 
 namespace SampleAndroidApp
 {
@@ -24,6 +25,14 @@ namespace SampleAndroidApp
 
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             fab.Click += FabOnClick;
+
+            Button translateButton = FindViewById<Button>(Resource.Id.TranslateButton);
+
+            translateButton.Click += (sender, e) =>
+              {
+                  var intent = new Intent(this, typeof(activity_sub1));
+                  StartActivity(intent);
+              };
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)

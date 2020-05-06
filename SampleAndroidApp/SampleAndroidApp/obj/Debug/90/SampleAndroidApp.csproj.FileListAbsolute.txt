@@ -52,6 +52,7 @@ C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroid
 C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\bin\Debug\System.Runtime.Serialization.pdb
 C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\bin\Debug\Mono.Security.pdb
+C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\obj\Debug\90\res\layout\layout_sub1.xml
 C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\obj\Debug\90\linksrc\SampleAndroidApp.pdb
 C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\obj\Debug\90\linksrc\Mono.Android.pdb
 C:\Users\mh881\OneDrive\デスクトップ\UpDown\SampleAndroidApp\SampleAndroidApp\obj\Debug\90\linksrc\mscorlib.pdb
