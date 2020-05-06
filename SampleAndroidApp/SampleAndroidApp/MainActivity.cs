@@ -22,8 +22,12 @@ namespace SampleAndroidApp
             Android.Support.V7.Widget.Toolbar toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
             SetSupportActionBar(toolbar);
 
-            FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
-            fab.Click += FabOnClick;
+            //画面右下のメールマークのボタン
+            FloatingActionButton fabMail = FindViewById<FloatingActionButton>(Resource.Id.fabMail);
+            fabMail.Click += FabMailOnClick;
+
+            FloatingActionButton fabInfo = FindViewById<FloatingActionButton>(Resource.Id.fabInfo);
+            fabInfo.Click += FabInfoOnClick;
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)
@@ -43,12 +47,20 @@ namespace SampleAndroidApp
             return base.OnOptionsItemSelected(item);
         }
 
-        private void FabOnClick(object sender, EventArgs eventArgs)
+        private void FabMailOnClick(object sender, EventArgs eventArgs)
         {
             View view = (View)sender;
-            Snackbar.Make(view, "Replace with your own action", Snackbar.LengthLong)
+            Snackbar.Make(view, "Mail button was pressed!", Snackbar.LengthLong)
                 .SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
         }
+
+        private void FabInfoOnClick(object sender, EventArgs eventArgs)
+        {
+            View view = (View)sender;
+            Snackbar.Make(view, "Info button was pressed!", Snackbar.LengthLong)
+                .SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
+        }
+
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
