@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mh881\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj",
+      "projectUniqueName": "C:\\Users\\mh881\\OneDrive\\デスクトップ\\UpDown\\Phoneword_android\\Phoneword\\Phoneword.csproj",
       "projectName": "Phoneword",
-      "projectPath": "C:\\Users\\mh881\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj",
+      "projectPath": "C:\\Users\\mh881\\OneDrive\\デスクトップ\\UpDown\\Phoneword_android\\Phoneword\\Phoneword.csproj",
       "packagesPath": "C:\\Users\\mh881\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mh881\\source\\repos\\Phoneword\\Phoneword\\obj\\",
+      "outputPath": "C:\\Users\\mh881\\OneDrive\\デスクトップ\\UpDown\\Phoneword_android\\Phoneword\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
