@@ -4832,18 +4832,19 @@ containing a value of this type.
         public static final int design_navigation_menu=0x7f04002b;
         public static final int design_navigation_menu_item=0x7f04002c;
         public static final int design_text_input_password_icon=0x7f04002d;
-        public static final int mtrl_layout_snackbar=0x7f04002e;
-        public static final int mtrl_layout_snackbar_include=0x7f04002f;
-        public static final int notification_action=0x7f040030;
-        public static final int notification_action_tombstone=0x7f040031;
-        public static final int notification_template_custom_big=0x7f040032;
-        public static final int notification_template_icon_group=0x7f040033;
-        public static final int notification_template_part_chronometer=0x7f040034;
-        public static final int notification_template_part_time=0x7f040035;
-        public static final int select_dialog_item_material=0x7f040036;
-        public static final int select_dialog_multichoice_material=0x7f040037;
-        public static final int select_dialog_singlechoice_material=0x7f040038;
-        public static final int support_simple_spinner_dropdown_item=0x7f040039;
+        public static final int draw_time=0x7f04002e;
+        public static final int mtrl_layout_snackbar=0x7f04002f;
+        public static final int mtrl_layout_snackbar_include=0x7f040030;
+        public static final int notification_action=0x7f040031;
+        public static final int notification_action_tombstone=0x7f040032;
+        public static final int notification_template_custom_big=0x7f040033;
+        public static final int notification_template_icon_group=0x7f040034;
+        public static final int notification_template_part_chronometer=0x7f040035;
+        public static final int notification_template_part_time=0x7f040036;
+        public static final int select_dialog_item_material=0x7f040037;
+        public static final int select_dialog_multichoice_material=0x7f040038;
+        public static final int select_dialog_singlechoice_material=0x7f040039;
+        public static final int support_simple_spinner_dropdown_item=0x7f04003a;
     }
     public static final class menu {
         public static final int menu_main=0x7f100000;

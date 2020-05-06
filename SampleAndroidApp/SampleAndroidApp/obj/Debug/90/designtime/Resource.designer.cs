@@ -3927,6 +3927,9 @@ namespace SampleAndroidApp
 			// aapt resource value: 0x7F0F002A
 			public const int design_text_input_password_icon = 2131689514;
 			
+			// aapt resource value: 0x7F020004
+			public const int draw_time = 2130837508;
+			
 			// aapt resource value: 0x7F0F002B
 			public const int mtrl_layout_snackbar = 2131689515;
 			
