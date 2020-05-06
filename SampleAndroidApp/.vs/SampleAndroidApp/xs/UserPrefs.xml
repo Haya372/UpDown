@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SampleAndroidApp/MainActivity.cs">
     <Files>
       <File FileName="SampleAndroidApp/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="SampleAndroidApp/Resources/layout/activity_main.xml" Line="1" Column="1" />
-      <File FileName="SampleAndroidApp/Resources/layout/content_main.xml" Line="1" Column="1" />
+      <File FileName="SampleAndroidApp/Resources/layout/activity_main.xml" />
+      <File FileName="SampleAndroidApp/Resources/layout/content_main.xml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
