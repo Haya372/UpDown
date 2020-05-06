@@ -1551,25 +1551,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/naruchan/.nuget/packages/": {}
+    "C:\\Users\\mh881\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/SampleAndroidApp.csproj",
+      "projectUniqueName": "C:\\Users\\mh881\\OneDrive\\デスクトップ\\UpDown\\SampleAndroidApp\\SampleAndroidApp\\SampleAndroidApp.csproj",
       "projectName": "SampleAndroidApp",
-      "projectPath": "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/SampleAndroidApp.csproj",
-      "packagesPath": "/Users/naruchan/.nuget/packages/",
-      "outputPath": "/Users/naruchan/C++works/co-development/SampleAndroidApp/SampleAndroidApp/obj/",
+      "projectPath": "C:\\Users\\mh881\\OneDrive\\デスクトップ\\UpDown\\SampleAndroidApp\\SampleAndroidApp\\SampleAndroidApp.csproj",
+      "packagesPath": "C:\\Users\\mh881\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mh881\\OneDrive\\デスクトップ\\UpDown\\SampleAndroidApp\\SampleAndroidApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/naruchan/.config/NuGet/NuGet.Config"
+        "C:\\Users\\mh881\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
