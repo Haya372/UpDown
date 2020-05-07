@@ -3260,7 +3260,7 @@ namespace SampleAndroidApp
 			public const int SYM = 2131361854;
 			
 			// aapt resource value: 0x7f0a00a5
-			public const int TranslateButton = 2131361957;
+			public const int TransitionButton = 2131361957;
 			
 			// aapt resource value: 0x7f0a008d
 			public const int action_bar = 2131361933;

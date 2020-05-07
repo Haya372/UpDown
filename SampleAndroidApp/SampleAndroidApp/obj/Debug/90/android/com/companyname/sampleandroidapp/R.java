@@ -4575,7 +4575,7 @@ containing a value of this type.
         public static final int META=0x7f0a003c;
         public static final int SHIFT=0x7f0a003d;
         public static final int SYM=0x7f0a003e;
-        public static final int TranslateButton=0x7f0a00a5;
+        public static final int TransitionButton=0x7f0a00a5;
         public static final int action_bar=0x7f0a008d;
         public static final int action_bar_activity_content=0x7f0a0001;
         public static final int action_bar_container=0x7f0a008c;

@@ -983,7 +983,7 @@ int id HelloWorld 0x7f0a00a4
 int id META 0x7f0a003c
 int id SHIFT 0x7f0a003d
 int id SYM 0x7f0a003e
-int id TranslateButton 0x7f0a00a5
+int id TransitionButton 0x7f0a00a5
 int id action_bar 0x7f0a008d
 int id action_bar_activity_content 0x7f0a0001
 int id action_bar_container 0x7f0a008c

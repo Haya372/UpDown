@@ -3666,6 +3666,9 @@ namespace SampleAndroidApp
 			// aapt resource value: 0x7F0C008D
 			public const int touch_outside = 2131493005;
 			
+			// aapt resource value: 0x7F010005
+			public const int TransitionButton = 2130771973;
+			
 			// aapt resource value: 0x7F0C008E
 			public const int transition_current_scene = 2131493006;
 			
@@ -3680,9 +3683,6 @@ namespace SampleAndroidApp
 			
 			// aapt resource value: 0x7F0C0092
 			public const int transition_transform = 2131493010;
-			
-			// aapt resource value: 0x7F010005
-			public const int TranslateButton = 2130771973;
 			
 			// aapt resource value: 0x7F0C0093
 			public const int uniform = 2131493011;

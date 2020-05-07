@@ -10,11 +10,11 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_below="@id/HelloWorld"
-            android:id="@+id/TranslateButton" />
-  <TextView android:text="go to nect page"
+            android:id="@+id/TransitionButton" />
+  <TextView android:text="go to next page"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:layout_below="@id/TranslateButton"/>
+            android:layout_below="@id/TransitionButton"/>
   
 </RelativeLayout>

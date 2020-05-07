@@ -26,7 +26,7 @@ namespace SampleAndroidApp
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             fab.Click += FabOnClick;
 
-            Button translateButton = FindViewById<Button>(Resource.Id.TranslateButton);
+            Button translateButton = FindViewById<Button>(Resource.Id.TransitionButton);
 
             translateButton.Click += (sender, e) =>
               {
