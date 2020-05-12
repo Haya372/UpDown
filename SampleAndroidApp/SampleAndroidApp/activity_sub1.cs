@@ -39,6 +39,13 @@ namespace SampleAndroidApp
                 }
             });
             _timer.Start();
+
+            Button translateButton = FindViewById<Button>(Resource.Id.button1);
+            translateButton.Click += (sender, e) =>
+            {
+                var intent = new Intent(this, typeof(MainActivity));
+                StartActivity(intent);
+            };
         }
     }
 }

@@ -21,6 +21,13 @@
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:id="@+id/time" />
+	<Button
+		android:text="Next page"
+		android:gravity="center"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/button1"
+		android:layout_below="@id/time" />
 
 
 </LinearLayout>

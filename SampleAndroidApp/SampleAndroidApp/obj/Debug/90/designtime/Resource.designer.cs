@@ -3264,8 +3264,8 @@ namespace SampleAndroidApp
 			// aapt resource value: 0x7F0C0010
 			public const int action_mode_close_button = 2131492880;
 			
-			// aapt resource value: 0x7F010008
-			public const int action_settings = 2130771976;
+			// aapt resource value: 0x7F010009
+			public const int action_settings = 2130771977;
 			
 			// aapt resource value: 0x7F0C0004
 			public const int action_text = 2131492868;
@@ -3305,6 +3305,9 @@ namespace SampleAndroidApp
 			
 			// aapt resource value: 0x7F0C000D
 			public const int browser_actions_menu_view = 2131492877;
+			
+			// aapt resource value: 0x7F010008
+			public const int button1 = 2130771976;
 			
 			// aapt resource value: 0x7F0C001A
 			public const int buttonPanel = 2131492890;
